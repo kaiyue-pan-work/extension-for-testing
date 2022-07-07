@@ -1,9 +1,9 @@
 {
-	"name": "custom-view-samples",
-	"displayName": "Custom view Samples",
-	"description": "Samples for VSCode's view API",
+	"name": "sample-extension",
+	"displayName": "Sample Extension",
+	"description": "",
 	"version": "0.0.1",
-	"publisher": "vscode-samples",
+	"publisher": "",
 	"private": true,
 	"license": "MIT",
 	"repository": {
